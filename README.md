@@ -16,3 +16,8 @@ Next, I needed to understand the outcome of the plays campaigns, based on their 
 ### Challenges
 One particular challenge I ran into was the conditional formatting of the Percentage Funded column in the dataset. Following the directions to use a 2-scale color scheme with red for the lowest value and blue for the highest value, the result had all cells, no matter the number, highlighted red. I could not figure out how to fix this issue, so I began to play around with the formatting options until I found by substituting the Minimum and Maximum types from Lowest and Highest Value with percentile, I was able to get the same result as per the instructions.
 
+## Results
+1. By glancing at the Theater Outcomes by Launch Date graph, one can conclude that the number of successful theater campaigns is significantly greater than failed/canceled campaigns; the only month where successful campaigns is not more than both failed and canceled combined is December. Another conclusion noted when reviewing the graph is that the number of successful campaigns is greater in the middle of the year vs the beginning and end of the calendar year.
+2. From the Outcomes Based on Goals data, I can attest that the highest liklihood of success occurs the lower the goal amount is for the campaign. 
+3. However, this graph does not tell the whole story, as the total number of campaigns is skewed heavily towards the smallest ranges. 
+4. It may be helpful to chart a 4th series on a secondary access showing the total number of campaigns for each range on the Outcomes Based on Goals graph. Another helpful option for Louise may be to graphically depict which campaigns had the highest number of backers by goal amount in the theater subactegory.
